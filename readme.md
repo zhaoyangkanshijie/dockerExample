@@ -8,6 +8,8 @@
 * [Docker 教程](https://www.runoob.com/docker/docker-tutorial.html)
 * [Docker英文文档](https://docs.docker.com/get-started/)
 * [Docker Hub 仓库](https://hub.docker.com/)
+* [Docker教程前端有这篇就够了!!!](https://juejin.cn/post/6962848738645639175)
+* [Docker+Nginx+Jenkins实现前端自动化部署](https://juejin.cn/post/6869736425953165319)
 
 ## 目录
 
@@ -19,8 +21,8 @@
     * [容器](#容器)
     * [连接](#连接)
     * [仓库](#仓库)
-    * [Compose](#Compose)
     * [Dockerfile定制镜像](#Dockerfile定制镜像)
+    * [Compose](#Compose)
 * [docker应用](#docker应用)
     * [部署vue2和vue3项目](#部署vue2和vue3项目)
 
